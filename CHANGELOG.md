@@ -1,0 +1,2 @@
+- added repo url to gemspec
+- first commit
